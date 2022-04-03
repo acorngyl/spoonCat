@@ -103,5 +103,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/acorngyl/spoonCat.github.io
+  repo: https://AAAAC3NzaC1lZDI1NTE5AAAAILaXh7LBsvFe38XsI7WWY92RTv0ytlYuCk7rx7XywI0w@github.com/acorngyl/spoonCat.github.io
   branch: master
